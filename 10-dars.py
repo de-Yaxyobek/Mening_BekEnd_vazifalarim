@@ -102,23 +102,23 @@
 
 
 # 7-misol
-son1 = int(input("Butun son kiriting: "))
+# son1 = int(input("Butun son kiriting: "))
 
-if son1 % 2 == 0:
-    print(f"Bu son 2 ga qoldiqsiz bo'linadi {son1 // 2}")
-if son1 % 3 == 0:
-    print(f"Bu son 3 ga qoldiqsiz bo'linadi {son1 // 2}")
-if son1 % 4 == 0:
-    print(f"Bu son 4 ga qoldiqsiz bo'linadi {son1 // 2}")
-if son1 % 5 == 0:
-    print(f"Bu son 5 ga qoldiqsiz bo'linadi {son1 // 2}")
-if son1 % 6 == 0:
-    print(f"Bu son 6 ga qoldiqsiz bo'linadi {son1 // 2}")
-if son1 % 7 == 0:
-    print(f"Bu son 7 ga qoldiqsiz bo'linadi {son1 // 2}")
-if son1 % 8 == 0:
-    print(f"Bu son 8 ga qoldiqsiz bo'linadi {son1 // 2}")
-if son1 % 9 == 0:
-    print(f"Bu son 9 ga qoldiqsiz bo'linadi {son1 // 2}")
-if son1 % 10 == 0:
-    print(f"Bu son 10 ga qoldiqsiz bo'linadi {son1 // 2}")
+# if son1 % 2 == 0:
+#     print(f"Bu son 2 ga qoldiqsiz bo'linadi {son1 // 2}")
+# if son1 % 3 == 0:
+#     print(f"Bu son 3 ga qoldiqsiz bo'linadi {son1 // 2}")
+# if son1 % 4 == 0:
+#     print(f"Bu son 4 ga qoldiqsiz bo'linadi {son1 // 2}")
+# if son1 % 5 == 0:
+#     print(f"Bu son 5 ga qoldiqsiz bo'linadi {son1 // 2}")
+# if son1 % 6 == 0:
+#     print(f"Bu son 6 ga qoldiqsiz bo'linadi {son1 // 2}")
+# if son1 % 7 == 0:
+#     print(f"Bu son 7 ga qoldiqsiz bo'linadi {son1 // 2}")
+# if son1 % 8 == 0:
+#     print(f"Bu son 8 ga qoldiqsiz bo'linadi {son1 // 2}")
+# if son1 % 9 == 0:
+#     print(f"Bu son 9 ga qoldiqsiz bo'linadi {son1 // 2}")
+# if son1 % 10 == 0:
+#     print(f"Bu son 10 ga qoldiqsiz bo'linadi {son1 // 2}")
