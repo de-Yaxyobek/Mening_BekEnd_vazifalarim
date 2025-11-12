@@ -114,29 +114,8 @@ translate = {
     'raket': 'raketa',
     'roket': 'raketka',
     'melon': 'qovun',
-    'pear': 'nok',
-    'one': 'bir',
-    'two': 'ikki',
-    'monkey': 'maymun',
-    'donkey': 'eshak',
-    'cheir': 'kursi',
-    'table': 'ustar',
-    'bag': 'sumka',
-    'boy': 'bola',
-    'children': 'bolalar',
-    'son': 'o\'g\'il farzand',
-    'grandmather': 'buvi',
-    'grandfather': 'bobo',
-    'taxi': 'taksi',
-    'gum': 'zuvachka',
-    'peopple': 'odamlar',
-    'goal': 'go\'l urmoq',
-    'mouse': 'sichon',
     'roash': 'taraqan'
 }
-kiriting = str(input("").lower())
-
-if kiriting in translate:
-    print(f"{kiriting} >>>>>>> {translate[kiriting]}")
-else:
-    print("Bu so'z translateda yo'q!")
+soz = str(input("meva kiriting indilizchada: >>> "))
+if soz in translate:
+    print(f"{soz} >>> {translate[soz]}")
